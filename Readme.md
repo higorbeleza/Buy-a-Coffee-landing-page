@@ -1,1 +1,1 @@
-<!-- Eu não conseguir deixar o site responsivo pra mobile AINDA. -->
+<!-- Eu conseguir deixar responsivo em 375px. -->
