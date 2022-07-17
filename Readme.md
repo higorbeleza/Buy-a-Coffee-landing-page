@@ -1,0 +1,1 @@
+<!-- Eu não conseguir deixar o site responsivo pra mobile AINDA. -->
